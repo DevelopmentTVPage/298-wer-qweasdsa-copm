@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian Local erqwedfq"
+baseURL = "https:\/\/wer.qweasdsa.copm"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
